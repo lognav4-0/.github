@@ -32,3 +32,6 @@ docker run -it --name lognav --privileged --net=host --ipc=host -w /home/lognav 
 ### Troubleshooting:
 
 _If you had any authorization problem redo all the steps again adding the sudo command before each command line._
+
+_Take a look at the docker post-instalation for more details how correct your problem without needed to use sudo:_
+https://docs.docker.com/engine/install/linux-postinstall/
