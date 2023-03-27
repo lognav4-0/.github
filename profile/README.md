@@ -28,3 +28,7 @@ Run container without NVIDIA GPU (for the docker users):
 ```shell
 docker run -it --name lognav --privileged --net=host --ipc=host -w /home/lognav -v /tmp/.X11-unix:/tmp/.X11-unix -v $PWD:/tmp/shared  -e DISPLAY=$DISPLAY ghcr.io/lognav4-0/freedom_vehicle:0.94
 ```
+
+### Troubleshooting:
+
+_If you had any authorization problem redo all the steps again adding the sudo command before each command line._
