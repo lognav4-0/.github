@@ -9,7 +9,7 @@ DockerHub login (dockerhub account):
 docker login
 ```
 
-Github container repository login (github token account):
+Github container repository login (github token account) --> [if you have a problem follow https://gist.github.com/yokawasa/841b6db379aa68b2859846da84a9643c]:
 ```shell
 docker login ghcr.io
 ```
