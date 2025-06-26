@@ -1,4 +1,8 @@
 ## LOGNAV Project 👋
+Welcome! This is the oficial organization for LOGNAV project. Here, you can access every repository containing content for freedom autonomous robot development.
+Each single repository has its features, README, and other stuff. Please, read them before contibuting!
+Our main repository right now is the "lognav" repo. It contains all our development in a single package.
+
 
 If you are using an NVIDIA GPU follow this tutorial to install the Docker2 (nvidia container toolkit): https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker
 
